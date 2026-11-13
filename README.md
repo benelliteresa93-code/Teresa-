@@ -2,5 +2,8 @@
 
 # SOMETHING - BEATLES
 
-* i don't want to leave her now
-## you know i believe 
+* panoramica e testo 
+  
+i don't want to leave her now
+you know i believe and how 
+...
